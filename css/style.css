@@ -13,8 +13,8 @@ body {
 }
 
 .clock {
-  width: 350px;
-  height: 350px;
+  width: 24rem;
+  height: 24rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,8 +30,8 @@ body {
 .clock::before {
   content: "";
   position: absolute;
-  width: 24rem;
-  height: 24rem;
+  width: 15px;
+  height: 15px;
   background: #fff;
   border-radius: 50%;
   z-index: 10;
