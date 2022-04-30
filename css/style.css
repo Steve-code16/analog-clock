@@ -13,8 +13,8 @@ body {
 }
 
 .clock {
-  width: 24rem;
-  height: 24rem;
+  width: 350px;
+  height: 350px;
   display: flex;
   justify-content: center;
   align-items: center;
