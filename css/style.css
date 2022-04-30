@@ -30,8 +30,8 @@ body {
 .clock::before {
   content: "";
   position: absolute;
-  width: 15px;
-  height: 15px;
+  width: 24rem;
+  height: 24rem;
   background: #fff;
   border-radius: 50%;
   z-index: 10;
